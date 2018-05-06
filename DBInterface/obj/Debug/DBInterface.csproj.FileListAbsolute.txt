@@ -1,0 +1,27 @@
+z:\Documents\Visual Studio 2015\Projects\GreenDataServiceASP\DBInterface\bin\Debug\DBInterface.dll
+z:\Documents\Visual Studio 2015\Projects\GreenDataServiceASP\DBInterface\bin\Debug\DBInterface.pdb
+z:\Documents\Visual Studio 2015\Projects\GreenDataServiceASP\DBInterface\obj\Debug\DBInterface.dll
+z:\Documents\Visual Studio 2015\Projects\GreenDataServiceASP\DBInterface\obj\Debug\DBInterface.pdb
+z:\Documents\Visual Studio 2015\Projects\GreenDataServiceASP\DBInterface\bin\Debug\MySql.Web.dll
+z:\Documents\Visual Studio 2015\Projects\GreenDataServiceASP\DBInterface\bin\Debug\MySql.Web.xml
+z:\Documents\Visual Studio 2015\Projects\GreenDataServiceASP\DBInterface\bin\Debug\MySql.Data.Entity.EF6.dll
+z:\Documents\Visual Studio 2015\Projects\GreenDataServiceASP\DBInterface\bin\Debug\MySql.Data.Entity.EF6.xml
+z:\Documents\Visual Studio 2015\Projects\GreenDataServiceASP\DBInterface\bin\Debug\MySql.Data.dll
+z:\Documents\Visual Studio 2015\Projects\GreenDataServiceASP\DBInterface\bin\Debug\MySql.Data.xml
+z:\Documents\Visual Studio 2015\Projects\GreenDataServiceASP\DBInterface\obj\Debug\DBInterface.csprojResolveAssemblyReference.cache
+z:\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\bin\Debug\DBInterface.dll
+z:\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\bin\Debug\DBInterface.pdb
+z:\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\bin\Debug\MySql.Data.dll
+z:\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\bin\Debug\MySql.Data.Entity.EF6.dll
+z:\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\bin\Debug\MySql.Web.dll
+z:\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\bin\Debug\MySql.Data.xml
+z:\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\bin\Debug\MySql.Data.Entity.EF6.xml
+z:\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\bin\Debug\MySql.Web.xml
+z:\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\obj\Debug\DBInterface.dll
+z:\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\obj\Debug\DBInterface.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\bin\Debug\DBInterface.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\bin\Debug\DBInterface.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\obj\Debug\DBInterface.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\obj\Debug\DBInterface.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\obj\Debug\DBInterface.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Enalasys\DBInterface\obj\Debug\DBInterface.pdb
