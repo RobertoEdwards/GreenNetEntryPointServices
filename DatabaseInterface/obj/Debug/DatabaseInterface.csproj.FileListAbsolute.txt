@@ -1,0 +1,6 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Enalasys\DatabaseInterface\bin\Debug\DatabaseInterface.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Enalasys\DatabaseInterface\bin\Debug\DatabaseInterface.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Enalasys\DatabaseInterface\obj\Debug\DatabaseInterface.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Enalasys\DatabaseInterface\obj\Debug\DatabaseInterface.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Enalasys\DatabaseInterface\obj\Debug\DatabaseInterface.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\Enalasys\DatabaseInterface\obj\Debug\DatabaseInterface.pdb
